@@ -1,0 +1,3 @@
+﻿Configuração: 
+
+Basta acessar o endereço da pasta onde o site está hospedado e o browser terá acesso ao index.html.
